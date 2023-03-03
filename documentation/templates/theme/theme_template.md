@@ -2,5 +2,5 @@
 
 
 # List initiatives related to this theme
-1. [User-friendly Courses Page](documentation/templates/theme/initiatives/initiative_template.md)
-2. [Detailed course information Page](documentation/templates/theme/initiatives/initiative_template.md)
+1. [User-friendly Courses Page](https://github.com/rishabhpatel8299/mywebclass-agile-docs/blob/main/documentation/templates/theme/initiatives/initiative_template.md)
+2. [Detailed course information Page](https://github.com/rishabhpatel8299/mywebclass-agile-docs/blob/main/documentation/templates/theme/initiatives/initiative_template.md)
