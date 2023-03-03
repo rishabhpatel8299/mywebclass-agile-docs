@@ -113,7 +113,7 @@ business processes to provide realistic scenarios for students to learn technolo
 
 * [Theme Template](documentation/templates/theme/theme_template.md)
 * [Initiative Template](documentation/templates/theme/initiatives/initiative_2.md)
-* [Epic Template](documentation/templates/theme/initiatives/epics/epic_template.md)
+* [Epic Template](documentation/templates/theme/initiatives/epics/epic_1.md)
 * [User Story](documentation/templates/theme/initiatives/epics/stories/story_template.md)
 * [Task Template](documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
 
