@@ -1,17 +1,15 @@
-"As a [user role], I want to [do something] so that [achieve a specific goal]."
-
-By following this template, you can create user stories that are structured and easy to understand. To make the user story even more effective, you can add acceptance criteria that specify the requirements that must be met to consider the user story complete. Here's an example of a user story with acceptance criteria:
-
-"As a customer, I want to view my order history so that I can track my past purchases."
+As a student, I want to be able to view course descriptions, learning objectives, and prerequisites to determine if the course is suitable for me.
 
 Acceptance Criteria:
 
-The order history page displays a list of all past orders, including the date, order number, and total cost.
-Each order in the list is clickable and leads to a detailed view of the order.
-The detailed view of the order includes the list of items purchased, the quantities, the prices, and any discounts applied.
-The order history page can be accessed from the customer account dashboard.
-The order history page is only accessible to authenticated customers.
+1. The course description includes a brief overview of the course, the intended audience, and the expected outcomes.
+2. The learning objectives describe what the student will be able to do or understand after completing the course.
+3. The prerequisites specify any required knowledge or skills necessary to succeed in the course.
+4. The course description, learning objectives, and prerequisites are easily accessible from the course page.
+5. The course page layout is user-friendly and visually appealing.
+6. The information is presented in a clear and concise manner, without any unnecessary technical jargon.
+7. The student can easily navigate back to the course search results page.
 
 
-# List Stories related to this theme
-1. [Stories 1](documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
+# List Tasks related to this theme
+1. [Add fields for course description, learning objectives, and prerequisites to the course details page](https://github.com/rishabhpatel8299/mywebclass-agile-docs/blob/main/documentation/templates/theme/initiatives/epics/stories/tasks/task_4.md)
