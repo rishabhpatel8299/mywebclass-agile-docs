@@ -11,4 +11,3 @@ Acceptance Criteria:
 
 # List Tasks related to this theme
 1. [Test the search and filter functionality](https://github.com/rishabhpatel8299/mywebclass-agile-docs/blob/main/documentation/templates/theme/initiatives/epics/stories/tasks/task_1.md)
-2. [Obtain feedback from users](https://github.com/rishabhpatel8299/mywebclass-agile-docs/blob/main/documentation/templates/theme/initiatives/epics/stories/tasks/task_2.md)

@@ -1,15 +1,26 @@
-Task Title: [Short, descriptive title for the task]
+Task Title: 
+Test Search and Filter Functionality
 
-User Story: [Reference the user story that this task supports]
+User Story: 
+As a student, I want to be able to search and filter courses by topic, level, and instructor, so that I can find the courses that are relevant to my needs and interests.
 
-Description: [Describe the task in more detail. What needs to be done? What are the acceptance criteria? What are the dependencies?]
+Description:
+The task involves testing the search and filter functionality on the website to ensure that it is working correctly. The acceptance criteria for this task include:
 
-Effort Estimate: [Provide an estimate of the time required to complete the task, usually in hours or points]
+1. The search function returns relevant results based on the user's search query
+2. The filter function allows users to narrow down their search results based on specific criteria such as date, category, or author
+3. The search and filter functions do not break or produce errors when used by users
+4. The search and filter functions are easy to find and use on the website
 
-Assigned To: [Assign the task to a team member who will be responsible for completing it]
+This task has no dependencies and can be completed independently. 
 
-Priority: [Indicate the relative priority of this task compared to other tasks in the sprint]
+Effort Estimate:
+4 hours
 
-Status: [Track the status of the task, such as "not started", "in progress", "blocked", or "completed"]
+Assigned To: John Doe
 
-Notes: [Include]
+Priority: Medium 
+
+Status: Not Started
+
+Notes: N/A
