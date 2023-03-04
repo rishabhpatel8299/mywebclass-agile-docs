@@ -24,3 +24,7 @@ Status: In progress
 
 Notes:
 The new fields should be added to the database and linked to the course details page. Testing should be done to ensure that the new fields are working correctly and displaying the correct information.
+
+#Testing Plan
+##Automated Testing
+Unit testing: This involves testing individual components or functions of the code to ensure that they are working correctly. For example, unit tests could be created to verify that the course description, learning objectives, and prerequisites fields are being saved and retrieved from the database correctly.
