@@ -22,6 +22,8 @@ Priority: High
 
 Status: In Progress
 
+Roles: Project Manager, UX/UI Designer, Business Analyst, Front-End Developer
+
 Notes: John will work closely with the school's IT department to ensure that the new course creation and management system integrates seamlessly with the school's existing technology infrastructure. He will also collaborate with teachers and administrators to gather feedback and incorporate their suggestions into the design of the system.
 
 #Testing Plan

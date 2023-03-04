@@ -25,6 +25,8 @@ Status: Not Started
 
 Notes: N/A
 
+Role: Developer, Quality Assurance Tester
+
 #Testing Plan
 ##For manual testing, a tester can perform the following tests:
 
