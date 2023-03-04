@@ -21,7 +21,7 @@ Risks:
 2. Technical challenges and limitations may impact the implementation and deployment of the new courses page.
 
 Estimated Effort:
-2-3 sprints
+12-24 hours
 
 Business Value:
 Improved user experience and engagement, increased course enrollments and revenue.
