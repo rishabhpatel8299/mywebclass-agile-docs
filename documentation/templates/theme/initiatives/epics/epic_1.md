@@ -14,7 +14,6 @@ User Stories:
 
 Dependencies:
 1. User research and testing to inform the design and functionality of the new courses page.
-2. Integration with the website's back-end and course management system.
 
 Risks:
 1. User adoption of the new design and functionality may be slow or limited.
