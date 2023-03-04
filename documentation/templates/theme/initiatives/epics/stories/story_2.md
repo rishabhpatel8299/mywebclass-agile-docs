@@ -12,4 +12,4 @@ Acceptance Criteria:
 
 
 # List Tasks related to this theme
-1. [Design and implement the new course creation and management system](https://github.com/rishabhpatel8299/mywebclass-agile-docs/blob/main/documentation/templates/theme/initiatives/epics/stories/tasks/task_3.md)
+1. [Design and implement the new course creation and management system](https://github.com/rishabhpatel8299/mywebclass-agile-docs/blob/main/documentation/templates/theme/initiatives/epics/stories/tasks/task_2.md)

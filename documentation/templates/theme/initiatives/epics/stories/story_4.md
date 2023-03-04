@@ -10,4 +10,4 @@ Acceptance Criteria:
 
 
 # List Tasks related to this theme
-1. [Ensure that the instructor information is visible and easily accessible to the students](https://github.com/rishabhpatel8299/mywebclass-agile-docs/blob/main/documentation/templates/theme/initiatives/epics/stories/tasks/task_5.md)
+1. [Ensure that the instructor information is visible and easily accessible to the students](https://github.com/rishabhpatel8299/mywebclass-agile-docs/blob/main/documentation/templates/theme/initiatives/epics/stories/tasks/task_4.md)
