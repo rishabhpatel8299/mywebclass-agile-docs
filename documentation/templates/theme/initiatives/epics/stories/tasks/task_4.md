@@ -25,3 +25,7 @@ Status: Not started
 
 Notes: 
 The instructor's profile section can be designed to match the look and feel of the rest of the course details page. The instructor's profile should also be linked to their courses so that students can easily find other courses taught by the same instructor.
+
+#Testing Plan
+##Automated Testing
+Automated testing may also be used to check that the section is only accessible to authenticated users and that it can be accessed from any page related to the course. Both unit and integration testing may be required to ensure that the new section is functioning correctly and has been integrated properly with the existing codebase. The testing may involve the use of Python frameworks like Selenium, Pytest, and Unittest.
