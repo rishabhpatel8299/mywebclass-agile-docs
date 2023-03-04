@@ -25,8 +25,7 @@ Milestones:
 2. Development and implementation of detailed course information page - 4 weeks.
 
 Constraints:
-1. Limited budget for design and development.
-2. Limited availability of content creators to provide course information.
+1. Limited availability of content creators to provide course information.
 
 Assumptions:
 1. Users are interested in detailed information about the courses offered.
